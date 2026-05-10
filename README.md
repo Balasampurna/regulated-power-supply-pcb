@@ -33,4 +33,4 @@ The design provides stable DC voltage output for electronic applications.
 - Educational purposes
 
 ## Author
-Sam
+balasampurna yerigala
