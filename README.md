@@ -21,10 +21,10 @@ The design provides stable DC voltage output for electronic applications.
 - Source files
 
 ## PCB Layout
-![PCB Layout](pcb-layout.png)
+![PCB Layout]("C:\Users\Bala sampurna Y\Pictures\Screenshots\Screenshot 2025-06-24 141445.png")
 
 ## Schematic
-![Schematic](schematic.png)
+![Schematic]("C:\Users\Bala sampurna Y\Pictures\Screenshots\Screenshot 2025-06-24 141803.png")
 
 ## Applications
 - Electronics projects
